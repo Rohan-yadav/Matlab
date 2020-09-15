@@ -1,3 +1,4 @@
+# Checking of delay property of DTFT 
 n = 0:7; x = [1 2 2 2 1 0 0 0];
 n1= 0:7; x1 = [0 0 0 1 2 2 2 1];
 k = 0:3; w = (pi/4)*k; # Frequency 
